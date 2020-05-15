@@ -2,6 +2,8 @@
 
 [Git magic](https://crypto.stanford.edu/~blynn/gitmagic/index.html)
 
+[How to Delete a Git Branch Both Locally and Remotely](https://www.freecodecamp.org/news/how-to-delete-a-git-branch-both-locally-and-remotely/)
+
 
 #### common commands
 
